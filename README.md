@@ -32,5 +32,5 @@
 
 <h1 align="left">🤝 Portfolio</h1>
 <p>
-  If you interest about me or want to hire me, this is my portfolio <a href="https://github.com/KangHen/KangHen/blob/main/HENDRI%20ARGADIYANTO.pdf" target="blank">Download Portfolio</a>
+  If you interest about me or want to hire me, this is my portfolio <a href="https://drive.google.com/file/d/1xDp1h8ruqEYiJTRFJOo8C9CCp7lNRRvL/view?usp=sharing" target="blank">Download Portfolio</a>
 </p>
