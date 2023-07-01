@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hendri Argadiyanto</h1>
 <h3 align="center">PHP / Ionic / Angular / Vue</h3>
 
-- 🔭 I’m currently working on **Phintara Digital Kreasindo**
+- 🔭 I'am interested in learning **PHP / JS Optical character recognition**
 
 - 💬 Ask me about **Laravel, Codeigniter, Ionic, Angular, Vue**
 
