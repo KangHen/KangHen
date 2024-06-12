@@ -30,7 +30,7 @@
 
 <h1 align="left">⚡ About Me</h1>
 <p>
-  Im PHP Developer with 7+ Years Experience , but sometimes Im in Front End Development.
+  Im PHP Developer with 8+ Years Experience , but sometimes Im in Front End Development.
 </p>
 
 <h1 align="left">🤝 Portfolio</h1>
