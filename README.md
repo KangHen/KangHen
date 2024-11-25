@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hendri Argadiyanto</h1>
 <h3 align="center">PHP / Ionic / Angular / Vue</h3>
 
-- 🔭 I'am interested in learning **PHP / JS Optical character recognition**
+- 🔭 I'am interested in learning **Golang & Angular 19**
 
 - 💬 Ask me about **Laravel, Codeigniter, Ionic, Angular, Vue**
 
