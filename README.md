@@ -56,6 +56,8 @@
 
 ---
 
+#### Achievement
+![](https://app-cdn.clickup.com/media/verified-power-user-badge-large-V2R7QE53.svg)
 ### 🌱 Currently Exploring
 - 🦫 **Golang**
 - ⚙️ **NestJS**
